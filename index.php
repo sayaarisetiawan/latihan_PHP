@@ -1,7 +1,27 @@
 <?php
-// tugas 6
-$nama_depan = "Ari";
-$nama_belakang= "Setiawan";
-echo $nama_depan. "" . $nama_belakang;
+// tugas 7
+$x = 10;
+$x += 2; #oprator assignment +=
+echo $x "</br>";
+
+$x = 10;
+$x -= 2; #oprator assignment -=
+echo $x "</br>";
+
+
+$x = 10;
+$x /= 2; #oprator assignment /=
+echo $x "</br>";
+
+
+$x = 10;
+$x %= 2; #oprator assignment %=
+echo $x "</br>";
+
+
+$x = 10;
+$x .= 2; #oprator assignment .=
+echo $x "</br>";
+
 
 ?>
