@@ -1,11 +1,7 @@
 <?php
-// tugas 5
-$x= 10;
-$y= 20;
-echo $x + $y;
-echo $x - $y;
-echo $x * $y;
-echo $x / $y;
-echo $x % $y;
+// tugas 6
+$nama_depan = "Ari";
+$nama_belakang= "Setiawan";
+echo $nama_depan. "" . $nama_belakang;
 
 ?>
