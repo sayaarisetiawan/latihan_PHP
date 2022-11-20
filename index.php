@@ -9,6 +9,7 @@
 <body>
  <?php 
  echo"<h1> WELCOME ARI </h1>";
+ echo "Today is " . date("Y/m/d") . "<br>";
  ?>
 </body>
 </html>
