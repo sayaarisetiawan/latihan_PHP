@@ -1,14 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Belajar PHP</title>
-</head>
-<body>
-    <!-- tugas 3 -->
- <h1> SELAMAT DATANG
- <?php echo $nama; ?> </h1>
-</body>
-</html>
+<?php
+$nama = " ari setiawan";
+echo "hallo, selamat datang $nama </br>";
+echo 'hallo, selamat datang $nama';
+?>
