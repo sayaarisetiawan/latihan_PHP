@@ -7,9 +7,8 @@
     <title>Belajar PHP</title>
 </head>
 <body>
- <?php 
- echo"<h1> WELCOME ARI </h1>";
- echo "Today is " . date("Y/m/d") . "<br>";
- ?>
+    <!-- tugas 3 -->
+ <h1> SELAMAT DATANG
+ <?php echo $nama; ?> </h1>
 </body>
 </html>
