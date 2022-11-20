@@ -1,5 +1,11 @@
 <?php
-$nama = " ari setiawan";
-echo "hallo, selamat datang $nama </br>";
-echo 'hallo, selamat datang $nama';
+// tugas 5
+$x= 10;
+$y= 20;
+echo $x + $y;
+echo $x - $y;
+echo $x * $y;
+echo $x / $y;
+echo $x % $y;
+
 ?>
