@@ -7,6 +7,8 @@
     <title>Belajar PHP</title>
 </head>
 <body>
-    <?php echo"ari setiawan"?>
+ <?php 
+ echo"<h1> WELCOME ARI </h1>";
+ ?>
 </body>
 </html>
